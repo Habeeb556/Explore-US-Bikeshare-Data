@@ -1,2 +1,2 @@
 # Explore-US-Bikeshare-Data
-Udacity Data Analyst Degree - Project I
+Udacity Data Analyst Professional Degree - Project I
